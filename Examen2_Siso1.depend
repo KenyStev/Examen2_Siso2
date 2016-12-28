@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1482264556 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/main.cpp
+	<iostream>
+	"BankImplement.h"
+	"LRU.h"
+	"MMU.h"
+
+1481589832 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/BankImplement.cpp
+	"BankImplement.h"
+
+1481589896 /run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/BankImplement.h
+	<thread>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	"Semaphore.h"
+
+1479888081 /run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/Semaphore.h
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"utils.h"
+
+1479708100 /run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/utils.h
+
+1479888126 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/Semaphore.cpp
+	"Semaphore.h"
+
+1479707409 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/utils.cpp
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	"utils.h"
+
+1482262113 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/LRU.cpp
+	"LRU.h"
+
+1481587855 /run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/LRU.h
+
+1482264679 source:/run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/MMU.cpp
+	"MMU.h"
+
+1482264521 /run/media/kenystev/Datos/Backup/Unitec/2016/IV Modulo/Sistemas_Operativos_1/Examen2_Siso1/MMU.h
+	<iostream>
+
